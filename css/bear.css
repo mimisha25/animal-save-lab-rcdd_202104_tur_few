@@ -17,7 +17,7 @@ html {
 
 @media only screen and (max-width: 600px) {
     .wrapper { width: 90%; }
-    .column { 
+    .column {
         width: 100%; 
         float: none;
         margin-left: 0;
